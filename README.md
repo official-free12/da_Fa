@@ -1,0 +1,6 @@
+# 大嘴怪小黄人NFT链游系统开发 区块链上链卡牌盲盒游戏 NFT链游智能
+
+大嘴怪小黄人NFT链游系统开发区块链上链卡牌盲盒游戏NFT链游智能<br>钱包：用户在各大钱包平台中创建属于自己的heco钱包DAPP只支持链，玩家在进行抽取盲盒获取虎卡、装备铸造等操作时需要先进行钱包的授权后，才可进行支付（可在后台配置中心化交易所链接）<br>盲盒：可通过抽取盲盒获得虎卡，每个等级会有不一样的属性加成，玩家可不限次数开启盲盒，可单次开启和一次性开启10次。<br>技术概况<br>前端web：Javascri-pt<br>：Solidity、Rust<br>后端：Typescri-pt<br>SDK：Python<br>售前须知<br>example.com，确保是您所需产品；<br>example.com；<br>example.com，技术团队会给予修复，请勿以此作为退款理由；<br>example.com，请联系客服了解所需环境及服务器；<br>example.com，不包含外部接口对接、运维和新增需求，如有其他需求请联系客服；<br>example.com，一经发售，概不退款，本公司承诺系统代码无缺失、无后门，存在BUG即时修复，请买家悉知；<br>example.com,下单即默认已阅读并同意以上条款；<br>example.com：本公司所售程序仅供学习研究、模拟测试，不得使用于非法用途，不得违反国家法律，否则后果自负！如用作其他用途造成的一切法律责任后果由买家承担，与、本公司皆无关系！谢谢配合！<br>   <br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/rFswm" style="color: red;">https://mega-file.org/rFswm</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
